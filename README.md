@@ -34,19 +34,16 @@ train/y_train.txt - activity for each measurement from the train set
 
 test/y_test.txt - activity for each measurement from the test set
 
-
+&nbsp;
 ##File Descriptions
 
 &nbsp;
-
 README.md: Some general information regarding the project and each file.
 
 &nbsp;
-
 CodeBook.md: Describes the variables, and details about any transformations carried out to clean the dataset.
 
 &nbsp;
-
 run_analysis.R: Contains the code for loading, merging, and transforming the selected data from the given dataset.
 
 
